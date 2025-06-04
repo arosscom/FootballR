@@ -10,6 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
+            
             Text("What is Football to You ?")
                 .font(.largeTitle)
                 .fontWeight(.thin)
